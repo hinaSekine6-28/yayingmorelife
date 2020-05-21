@@ -1,4 +1,4 @@
-# this code will print yay life 4 times 
+# this code will print yay life 5 times 
 
-for i in range(0, 4):
+for i in range(0, 5):
   print('yay life')
